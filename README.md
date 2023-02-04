@@ -5,7 +5,8 @@
 #### CRN: 23921
 ### University Of Central Missouri
 ## List of Contents
-[Assignment-1](https://github.com/PavanNagaSaiG/Machine-Learning-)
+[Assignment-1](https://github.com/PavanNagaSaiG/Machine-Learning-/tree/main/Assignment%201)
+
 [Assignment-2](https://github.com/PavanNagaSaiG/Machine-Learning-/tree/main/Assignment%202)
 ### Machine_learning_Coursework_Repo: Assignment-1
 
