@@ -6,6 +6,7 @@
 ### University Of Central Missouri
 ## List of Contents
 [Assignment-1](https://github.com/PavanNagaSaiG/Machine-Learning-)
+[Assignment-2]((https://github.com/PavanNagaSaiG/Machine-Learning-)
 ### Machine_learning_Coursework_Repo: Assignment-1
 
 Assignment 1 was done by using PyCharm IDE. This assignment helps to improve my skills in different functionalities of the python language. The lists are created by using []-square brackets, tuples by using ()-parenthesis, and dictionaries by {}-curly brackets. There are many predefined functions in python which is used accordingly. By using some mathematical formulas we also calculated the area and circumference of the circle. The KNN implementation is also done and accuracy, specificity, and sensitivity is also calculated.
@@ -17,7 +18,8 @@ Assignment 1 was done by using PyCharm IDE. This assignment helps to improve my 
 
 ### Machine_learning_Coursework_Repo: Assignment-2
 
-Assignament-2 is done by using Pycharm IDE. This assignment mainly concentrates pattern programs by using if-statements and else-if statements. It also gives a glance of removing the even nu,bers from the list. By using functions like type,
+Assignament-2 is done by using Pycharm IDE. This assignment mainly concentrates on pattern programs by using if-statements and else-if statements. It also gives a glance at removing the even numbers from the list. By using functions like type(), islower (),isupper() we can get the type of element in a list, and islower() is used to count the number of lowercase characters in a text, isupper() is used to count the number of uppercase characters in a text.
+
 ## Document and Video Of Assignment-2
 [Assignment-2 Document](https://docs.google.com/document/d/1SgR9WaQIftH315WNwDV_MT4ipSBszprH/edit?usp=sharing&ouid=115541669927085277449&rtpof=true&sd=true)
 
