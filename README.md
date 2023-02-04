@@ -15,6 +15,9 @@ Assignment 1 was done by using PyCharm IDE. This assignment helps to improve my 
 
 [Assignment-1  Demo Video](https://drive.google.com/file/d/12zx27p9BnrFrPdK8MJkO7UF7cMAmQ5pO/view?usp=share_link)
 
+### Machine_learning_Coursework_Repo: Assignment-2
+
+Assignament-2 is done by using Pycharm IDE. This assignment mainly concentrates pattern programs by using if-statements and else-if statements. It also gives a glance of removing the even nu,bers from the list. By using functions like type,
 ## Document and Video Of Assignment-2
 [Assignment-2 Document](https://docs.google.com/document/d/1SgR9WaQIftH315WNwDV_MT4ipSBszprH/edit?usp=sharing&ouid=115541669927085277449&rtpof=true&sd=true)
 
