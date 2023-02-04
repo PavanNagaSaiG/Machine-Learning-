@@ -16,7 +16,7 @@ Assignment 1 was done by using PyCharm IDE. This assignment helps to improve my 
 [Assignment-1  Demo Video](https://drive.google.com/file/d/12zx27p9BnrFrPdK8MJkO7UF7cMAmQ5pO/view?usp=share_link)
 
 ## Document and Video Of Assignment-2
-[Assignment-2 Document]
+[Assignment-2 Document](https://docs.google.com/document/d/1SgR9WaQIftH315WNwDV_MT4ipSBszprH/edit?usp=sharing&ouid=115541669927085277449&rtpof=true&sd=true)
 
 [Assignment-2 Demo Video](https://drive.google.com/file/d/1pBaTIBO2gxwILQDNs2kcZjKwCSb-CtcC/view?usp=sharing)
 
