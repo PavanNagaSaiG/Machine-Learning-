@@ -8,6 +8,8 @@
 [Assignment-1](https://github.com/PavanNagaSaiG/Machine-Learning-/tree/main/Assignment%201)
 
 [Assignment-2](https://github.com/PavanNagaSaiG/Machine-Learning-/tree/main/Assignment%202)
+
+[Assignment-3](https://drive.google.com/drive/folders/1a3LujZ3ZTRMqq6r3fKV5WKnY_3akxyV9?usp=share_link)
 ### Machine_learning_Coursework_Repo: Assignment-1
 
 Assignment 1 was done by using PyCharm IDE. This assignment helps to improve my skills in different functionalities of the python language. The lists are created by using []-square brackets, tuples by using ()-parenthesis, and dictionaries by {}-curly brackets. There are many predefined functions in python which is used accordingly. By using some mathematical formulas we also calculated the area and circumference of the circle. The KNN implementation is also done and accuracy, specificity, and sensitivity is also calculated.
