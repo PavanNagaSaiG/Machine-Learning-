@@ -34,5 +34,6 @@ Assignment-3 is done by using Jupyter Notebook.This assignment mainly focus on N
 
 ### Document and Video Of Assignment-3
 [Assignment-3 Document](https://docs.google.com/document/d/1YGfw4LuGWA7M7aWmyOluMor5zxwULVHh/edit?usp=share_link&ouid=115541669927085277449&rtpof=true&sd=true)
+
 [Assignment-3 Demo Video](https://drive.google.com/file/d/1kJMBQp8ur02H46v5rHXvP-A1YfDkRNkj/view?usp=share_link)
 
