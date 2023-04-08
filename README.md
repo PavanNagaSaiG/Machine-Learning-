@@ -37,3 +37,11 @@ Assignment-3 is done by using Jupyter Notebook.This assignment mainly focus on N
 
 [Assignment-3 Demo Video](https://drive.google.com/file/d/1kJMBQp8ur02H46v5rHXvP-A1YfDkRNkj/view?usp=share_link)
 
+## Machine_learning_Coursework_Repo: Assignment-4
+
+Assignment-4 is done by using Google Colab. With this assignment we learn topics related to classification.Naive Bayes is a simple technique for constructing classifiers: models that assign class labels to problem instances, represented as vectors of feature values, where the class labels are drawn from some finite set. Support vector machines (SVMs, also support vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis. We also uesd Visualization tools to display output. 
+
+### Document and Video Of Assignment-4
+[Assignment-4 Document](https://docs.google.com/document/d/1wfLvpm9m1nlnMzkWZIeYeZZJZbgj2iXM/edit?usp=share_link&ouid=115541669927085277449&rtpof=true&sd=true)
+
+[Assignment-4 Demo Video](https://drive.google.com/file/d/17WYBw2S6KSJRe04IsQd1IKN6QyyV8cJJ/view?usp=share_link)
